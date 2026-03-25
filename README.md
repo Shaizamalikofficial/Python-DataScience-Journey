@@ -38,7 +38,7 @@ This repository reflects my consistent effort, hands-on practice and growth as I
 
 #### Some of the systems and programs I've built during my learning:
 
-###🎓 Grading System
+### 🎓 Grading System
 ### 🧮 Calculator
 ### 🔢 Number Cruncher System
 ### 🛒 Shopping Manager System
